@@ -6,6 +6,9 @@ Project Proposal
 Emanuel Clemente (ejc2222), Helene Apollon (hca2124), Meher Walia
 (mw3952)
 
+**Tentative Project Title**: Starred in the City: Exploring Michelin
+Dining in New York City
+
 **Anticipated Data Sources**: We plan to use publicly available datasets
 on New York City restaurants, including the NYC Happy Hour Index which
 contains information on happy hour specials, pricing, neighborhood, and
