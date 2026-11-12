@@ -8,3 +8,14 @@ output: github_document
 
 *** Tentative Project Tite: Starred in the City: Exploring Michelin Dining in New York City *** 
 
+## Planned Timeline
+| Dates - Milestone |
+| Nov 11 | First group meeting: selected project topic, divided proposal sections among team members |
+| Nov 13 | Submit proposal; confirm data sources and finalize roles |
+| Nov 16 - 20 | Project review meeting with teaching team; revise scope based on feedback |
+| Nov 17 - 23 | Data acquisition and cleaning: import Michelin and NYC restaurant inspection data, standardize names and addresses, build the merged dataset |
+| Nov 24 - 30 | Exploratory analysis: summary statistics, initial visualizations, decide which comparisons make the final site |
+| Dec 1 - 7 | Build website structure and interactive visualizations; draft written report |
+| Dec 8 - 10 | Record and edit screencast; internal review of code and report |
+| Dec 11 | Final edits, knit and push all deliverables, confirm site renders |
+| Dec 12 | Submit website link, report, and peer assessments |
