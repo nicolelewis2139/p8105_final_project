@@ -1,12 +1,14 @@
 ---
-title: "Project Proposal"
+title: "Project Proposal" 
 date: "2026-11-12"
 output: github_document
 ---
 
 **Group members**: Nicole Lewis (nel239), Rezwana Habib (rfh2133), Emanuel Clemente (ejc2222), Helene Apollon (hca2124), Meher Walia (mw3952)
 
-*** Tentative Project Tite: Starred in the City: Exploring Michelin Dining in New York City *** 
+**Tentative Project Title**: Starred in the City: Exploring Michelin Dining in New York City 
+
+**Anticipated Data Sources**: We plan to use publicly available datasets on New York City restaurants, including the NYC Happy Hour Index which contains information on happy hour specials, pricing, neighborhood, and borough, and a Google Maps restaurant dataset containing information on restaurant names, locations, ratings, number of reviews, and price categories, and a Michelin Guide dataset, filtered to include 630 NYC locations, with information on restaurant locations, cuisine type and Michelin distinctions. Datasets are currently available in the project's data folder, and we plan to explore additional sources and supplement existing data with our own research as needed. 
 
 ## Planned Timeline
 | Dates - Milestone |

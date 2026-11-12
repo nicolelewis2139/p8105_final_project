@@ -1,0 +1,442 @@
+# NYC Happy Hour Price Index, YaY NYC, built 2026-11-12. CC BY 4.0: credit "YaY NYC" with a link to https://yaynyc.com/nyc-happy-hour-index. Cheapest happy-hour price per kind of drink, from each bar's own menu, before tax and tip.
+bar,neighborhood,borough,beer_usd,wine_usd,cocktail_usd,well_usd,checked,url
+200 Fifth,Park Slope,Brooklyn,,3,,,2026-11-08,https://yaynyc.com/bars/200-fifth-park-slope
+Albert’s Bar,Murray Hill,Manhattan,,,15,,2026-11-09,https://yaynyc.com/bars/albert-s-bar-murray-hill
+Alfie's,Hell's Kitchen,Manhattan,,,10,9,2026-11-10,https://yaynyc.com/bars/alfie-s-hell-s-kitchen
+All & Sundry,Hell's Kitchen,Manhattan,,16,,,2026-11-06,https://yaynyc.com/bars/all-sundry-hell-s-kitchen
+Alta Calidad,Prospect Heights,Brooklyn,,10,10,10,2026-11-11,https://yaynyc.com/bars/alta-calidad-prospect-heights
+Altair Restaurant NYC,Hell's Kitchen,Manhattan,,9,,,2026-11-10,https://yaynyc.com/bars/altair-restaurant-nyc-times-square
+Amelia's,Midtown,Manhattan,,10,6,10,2026-11-07,https://yaynyc.com/bars/amelia-s-koreatown
+Amelie Wine Bar,Greenwich Village,Manhattan,7,10,10,,2026-10-24,https://yaynyc.com/bars/amelie-wine-bar-greenwich-village
+Amelie Wine Bar,Upper West Side,Manhattan,,10,9,,2026-11-08,https://yaynyc.com/bars/amelie-wine-bar-upper-west-side
+Amity Hall,Greenwich Village,Manhattan,,,6,,2026-11-06,https://yaynyc.com/bars/amity-hall-greenwich-village
+Ardesia Wine Bar,Hell's Kitchen,Manhattan,7,8,10,,2026-11-07,https://yaynyc.com/bars/ardesia-wine-bar-hell-s-kitchen
+Art Bar,West Village,Manhattan,5,5,,5,2026-11-12,https://yaynyc.com/bars/art-bar-west-village
+Arte Cafe,Upper West Side,Manhattan,6,10,14,,2026-11-07,https://yaynyc.com/bars/arte-cafe-upper-west-side
+Artesano,Tribeca,Manhattan,,10,,,2026-11-09,https://yaynyc.com/bars/artesano-tribeca
+Asset,Upper West Side,Manhattan,,8,12,,2026-11-08,https://yaynyc.com/bars/asset-upper-west-side
+At The Office Bar,Murray Hill,Manhattan,6,9,,8,2026-11-09,https://yaynyc.com/bars/at-the-office-bar-murray-hill
+Augers Well,East Village,Manhattan,15,,,,2026-11-06,https://yaynyc.com/bars/augers-well-east-village
+Aura Bar and Kitchen,East Village,Manhattan,7,10,14,,2026-10-17,https://yaynyc.com/bars/aura-bar-and-kitchen-east-village
+BABA on Withers,Williamsburg,Brooklyn,,9,,,2026-11-07,https://yaynyc.com/bars/baba-on-withers-williamsburg
+Baht,Jackson Heights,Queens,6,8,10,,2026-10-27,https://yaynyc.com/bars/baht-jackson-heights
+Banc Cafe,Murray Hill,Manhattan,,8,10,,2026-11-11,https://yaynyc.com/bars/banc-cafe-murray-hill
+Bar Calico,Gramercy,Manhattan,7,15,10,,2026-11-07,https://yaynyc.com/bars/bar-calico-gramercy
+Bar Camillo,Bed-Stuy,Brooklyn,7,10,10,,2026-11-08,https://yaynyc.com/bars/bar-camillo-bed-stuy
+Bar Chuzo,Bay Ridge,Brooklyn,,,11,,2026-11-07,https://yaynyc.com/bars/bar-chuzo-bay-ridge
+Bar Louise,Park Slope,Brooklyn,,10,10,,2026-11-08,https://yaynyc.com/bars/bar-louise-park-slope
+Bar Mexicana,Midtown,Manhattan,6,6,10,,2026-11-06,https://yaynyc.com/bars/bar-mexicana-midtown
+Bar Milagro,Williamsburg,Brooklyn,,8,10,10,2026-11-08,https://yaynyc.com/bars/bar-milagro-williamsburg
+Bar Nine,Hell's Kitchen,Manhattan,5,,,5,2026-11-10,https://yaynyc.com/bars/bar-nine-hell-s-kitchen
+Bar Toto,Park Slope,Brooklyn,6,11,12,,2026-09-02,https://yaynyc.com/bars/bar-toto-park-slope
+Barfly,Gramercy,Manhattan,5,,11,13,2026-11-09,https://yaynyc.com/bars/barfly-gramercy
+Bartley Dunne's,Times Square,Manhattan,6,,10,,2026-11-09,https://yaynyc.com/bars/bartley-dunne-s-times-square
+Bati Ethiopian Kitchen,Clinton Hill,Brooklyn,8,8,,,2026-11-06,https://yaynyc.com/bars/bati-ethiopian-kitchen-prospect-heights
+Bazar Tapas Bar and Restaurant,Midtown,Manhattan,5,9,10,,2026-11-08,https://yaynyc.com/bars/bazar-tapas-bar-and-restaurant-flatiron
+Bee's Knees Provisions,Cobble Hill,Brooklyn,8,14,,,2026-11-07,https://yaynyc.com/bars/bee-s-knees-provisions-cobble-hill
+Beer Street,Williamsburg,Brooklyn,,10,10,,2026-11-06,https://yaynyc.com/bars/beer-street-williamsburg
+Bella Union,Kips Bay,Manhattan,7,,,,2026-11-06,https://yaynyc.com/bars/bella-union-gramercy
+Belli Osteria,Clinton Hill,Brooklyn,10,8,8,,2026-11-11,https://yaynyc.com/bars/belli-osteria-prospect-heights
+Benares,Tribeca,Manhattan,5,6,6,,2026-11-09,https://yaynyc.com/bars/benares-tribeca
+Bijan's,Boerum Hill,Brooklyn,7,11,,,2026-11-07,https://yaynyc.com/bars/bijan-s-downtown-brooklyn
+Bill's Bar & Burger,Times Square,Manhattan,6,,,,2026-11-07,https://yaynyc.com/bars/bill-s-bar-burger-times-square
+Bill's Bar & Burger,West Village,Manhattan,6,,,,2026-11-08,https://yaynyc.com/bars/bill-s-bar-burger-west-village
+Bill's Bar and Burger,Financial District,Manhattan,6,,,,2026-11-11,https://yaynyc.com/bars/bill-s-bar-and-burger-financial-district
+Bistro Eloise,East Elmhurst,Queens,,7,,,2026-11-11,https://yaynyc.com/bars/bistro-eloise-jackson-heights
+Bitter Monk,Sunset Park,Brooklyn,,,13,,2026-11-10,https://yaynyc.com/bars/bitter-monk-sunset-park
+Black Rabbit,Greenpoint,Brooklyn,6,,,,2026-11-09,https://yaynyc.com/bars/black-rabbit-greenpoint
+Bleecker Street Bar,Nolita,Manhattan,,,10,,2026-11-11,https://yaynyc.com/bars/bleecker-street-bar-nolita
+Blend on the Water,Long Island City,Queens,,,7,,2026-11-10,https://yaynyc.com/bars/blend-on-the-water-long-island-city
+Blu Seafood Restaurant & Bar,Laurelton,Queens,5.2,,,,2026-11-08,https://yaynyc.com/bars/blu-seafood-restaurant-bar
+Blue Haven,Kips Bay,Manhattan,,,11,,2026-11-12,https://yaynyc.com/bars/blue-haven-murray-hill
+Blue Seafood Bar,Hell's Kitchen,Manhattan,7,,,12,2026-10-27,https://yaynyc.com/bars/blue-seafood-bar-hell-s-kitchen
+Blueprint,Park Slope,Brooklyn,,,12,,2026-11-07,https://yaynyc.com/bars/blueprint-park-slope
+Bob's Your Uncle,Upper West Side,Manhattan,,,8,,2026-11-04,https://yaynyc.com/bars/bob-s-your-uncle-upper-west-side
+Bobo,Greenwich Village,Manhattan,5,8,12,,2026-10-27,https://yaynyc.com/bars/bobo-greenwich-village
+Bodega 88,Upper West Side,Manhattan,6,6,,8,2026-11-10,https://yaynyc.com/bars/bodega-88-upper-west-side
+Boho Karaoke Orchard,Lower East Side,Manhattan,5.5,,,4.5,2026-11-08,https://yaynyc.com/bars/boho-karaoke-orchard-lower-east-side
+Bonnie Vee,Lower East Side,Manhattan,5,10,11,10,2026-11-08,https://yaynyc.com/bars/bonnie-vee-nolita
+Boqueria Spanish Tapas,Chelsea,Manhattan,6,,8,,2026-10-16,https://yaynyc.com/bars/boqueria-spanish-tapas-flatiron
+Botantica Bar,Nolita,Manhattan,,6,,6,2026-11-06,https://yaynyc.com/bars/botantica-bar-nolita
+Boxers HK,Hell's Kitchen,Manhattan,5,,,,2026-11-08,https://yaynyc.com/bars/boxers-hk-hell-s-kitchen
+Breeze,Greenpoint,Brooklyn,5,,9.99,,2026-10-24,https://yaynyc.com/bars/breeze-greenpoint
+Broadstone Bar & Kitchen,Financial District,Manhattan,7,,12,,2026-10-24,https://yaynyc.com/bars/broadstone-bar-kitchen-financial-district
+Brooklyn Crab,Red Hook,Brooklyn,6,,10,,2026-11-10,https://yaynyc.com/bars/brooklyn-crab-red-hook
+Bua,East Village,Manhattan,8,20,10,,2026-11-07,https://yaynyc.com/bars/bua-east-village
+Burgerology Astoria,Astoria,Queens,5,5,,,2026-11-08,https://yaynyc.com/bars/burgerology-astoria-astoria
+Burgerology Midtown,Midtown,Manhattan,5,5,,,2026-11-09,https://yaynyc.com/bars/burgerology-midtown-midtown
+Cafe China,Midtown,Manhattan,6,,,,2026-10-24,https://yaynyc.com/bars/cafe-china-midtown
+Cafe Express Deli,Times Square,Manhattan,4,6,,,2026-09-02,https://yaynyc.com/bars/cafe-express-deli-times-square
+Cafe Luce,Midtown,Manhattan,,10,14,,2026-11-08,https://yaynyc.com/bars/cafe-luce-murray-hill
+Cafe Luna,West Village,Manhattan,6,8,10,,2026-11-12,https://yaynyc.com/bars/cafe-luna-west-village
+Café Maud,East Village,Manhattan,,,10,,2026-11-07,https://yaynyc.com/bars/cafe-maud-east-village
+Calle Dao,Midtown,Manhattan,8.24,13.39,13.39,13.39,2026-11-12,https://yaynyc.com/bars/calle-dao-midtown
+Carnegie Diner & Cafe,Times Square,Manhattan,5.95,4.95,,,2026-11-07,https://yaynyc.com/bars/carnegie-diner-cafe-times-square
+Casa Louie,Hell's Kitchen,Manhattan,7,10,10,,2026-11-06,https://yaynyc.com/bars/casa-louie-times-square
+Castell Rooftop Lounge,Times Square,Manhattan,6,10,12,,2026-11-03,https://yaynyc.com/bars/castell-rooftop-lounge-times-square
+Central Park Tavern,Hell's Kitchen,Manhattan,,,11,,2026-11-11,https://yaynyc.com/bars/central-park-tavern-hell-s-kitchen
+Cha Cha Tang,West Village,Manhattan,6,,10,,2026-11-10,https://yaynyc.com/bars/cha-cha-tang-soho
+Chalong Southern Thai,Hell's Kitchen,Manhattan,,,9,,2026-11-07,https://yaynyc.com/bars/chalong-southern-thai-hell-s-kitchen
+Chateau 49,Midtown,Manhattan,6,9,12,,2026-11-06,https://yaynyc.com/bars/chateau-49-murray-hill
+Chela,Park Slope,Brooklyn,,9,10,,2026-11-11,https://yaynyc.com/bars/chela-park-slope
+Chelsea Ristorante Italiano,Chelsea,Manhattan,,,10,10,2026-11-06,https://yaynyc.com/bars/chelsea-ristorante-italiano-west-village
+Chili's,Bulls Head,Staten Island,,,6,,2026-11-10,https://yaynyc.com/bars/chili-s
+Clay,Harlem,Manhattan,6,,12,,2026-11-11,https://yaynyc.com/bars/clay-harlem
+Clover Club,Cobble Hill,Brooklyn,,,10,,2026-11-06,https://yaynyc.com/bars/clover-club-cobble-hill
+Cobblestones Pub and Biergarten,Forest Hills,Queens,7,7,,,2026-11-07,https://yaynyc.com/bars/cobblestones-pub-and-biergarten-forest-hills
+Coco Chinese Restaurant,Flatbush,Brooklyn,5,8,14,,2026-11-10,https://yaynyc.com/bars/coco-chinese-restaurant-crown-heights
+Coffee + Cocktails,West Village,Manhattan,,,15,,2026-09-02,https://yaynyc.com/bars/coffee-cocktails-west-village
+Cómodo,SoHo,Manhattan,,,14,,2026-11-08,https://yaynyc.com/bars/co-modo-soho
+Coopers Craft & Kitchen,East Village,Manhattan,,,10,,2026-11-06,https://yaynyc.com/bars/coopers-craft-kitchen-east-village
+Copinette,Midtown,Manhattan,,10,10,,2026-11-06,https://yaynyc.com/bars/copinette-murray-hill
+Cornerstone Tavern,Midtown,Manhattan,6,9,,8,2026-11-12,https://yaynyc.com/bars/cornerstone-tavern-murray-hill
+Covacha,Upper West Side,Manhattan,6,10,12,,2026-11-08,https://yaynyc.com/bars/covacha-upper-west-side
+Coyote Ugly,Gramercy,Manhattan,5,,,,2026-11-12,https://yaynyc.com/bars/coyote-ugly-gramercy
+Croton Reservoir Tavern,Midtown,Manhattan,,10,10,10,2026-11-07,https://yaynyc.com/bars/croton-reservoir-tavern-midtown
+Crown Alley,Chelsea,Manhattan,6,8,8,,2026-11-09,https://yaynyc.com/bars/crown-alley-chelsea
+Crystal Lake Brooklyn,Williamsburg,Brooklyn,,6,,6,2026-11-11,https://yaynyc.com/bars/crystal-lake-brooklyn-williamsburg
+Cubana Cafe,Carroll Gardens,Brooklyn,,,9.5,,2026-11-09,https://yaynyc.com/bars/cubana-cafe-cobble-hill
+Da Capo,Upper West Side,Manhattan,,,12,,2026-11-09,https://yaynyc.com/bars/da-capo-upper-west-side
+Deja Vu New York,Astoria,Queens,6,8,,,2026-11-08,https://yaynyc.com/bars/deja-vu-new-york-koreatown
+Desmond's Tavern,Midtown,Manhattan,4,5,11,5,2026-11-12,https://yaynyc.com/bars/desmond-s-tavern-koreatown
+District Local,Chelsea,Manhattan,7,12,,,2026-11-12,https://yaynyc.com/bars/district-local-west-village
+District Tap House,Midtown,Manhattan,6,10,,,2026-11-12,https://yaynyc.com/bars/district-tap-house-midtown
+Dos Caminos,Midtown,Manhattan,,,6,,2026-11-06,https://yaynyc.com/bars/dos-caminos-murray-hill
+Dos Caminos,SoHo,Manhattan,,,6,,2026-11-12,https://yaynyc.com/bars/dos-caminos-soho
+Double Knot NYC,Times Square,Manhattan,10,8,,,2026-11-11,https://yaynyc.com/bars/double-knot-nyc-times-square
+Drips Restaurant and Lounge,The Bronx,The Bronx,,,8,,2026-10-27,https://yaynyc.com/bars/drips-restaurant-and-lounge
+Due West,Greenwich Village,Manhattan,,9,11,14,2026-11-12,https://yaynyc.com/bars/due-west-greenwich-village
+Edward's,Tribeca,Manhattan,7,10,12,,2026-11-08,https://yaynyc.com/bars/edward-s-tribeca
+El Coco,Chelsea,Manhattan,,,8,,2026-11-08,https://yaynyc.com/bars/el-coco-chelsea
+El Lugar Cantina,Chelsea,Manhattan,6,9,10,,2026-10-20,https://yaynyc.com/bars/el-lugar-cantina-flatiron
+El Pingüino,Greenpoint,Brooklyn,,,12,,2026-10-26,https://yaynyc.com/bars/el-pingu-ino-greenpoint
+Ella Social,Upper West Side,Manhattan,6,10,12,,2026-11-11,https://yaynyc.com/bars/ella-social-upper-west-side
+Emmett's,SoHo,Manhattan,11,9,,,2026-11-12,https://yaynyc.com/bars/emmett-s-soho
+Emmy Squared,East Village,Manhattan,9,5,,7,2026-11-12,https://yaynyc.com/bars/emmy-squared-east-village
+Emmy Squared Pizza,Park Slope,Brooklyn,9,5,,7,2026-11-10,https://yaynyc.com/bars/emmy-squared-pizza-park-slope
+Empellon Taqueria,Greenwich Village,Manhattan,5,10,9,6,2026-10-27,https://yaynyc.com/bars/empellon-taqueria-greenwich-village
+Ethyl's Alcohol & Food,Upper East Side,Manhattan,6,8,12,7,2026-11-07,https://yaynyc.com/bars/ethyl-s-alcohol-food-upper-east-side
+Evalyn's Tap House,Gowanus,Brooklyn,7,,11,8,2026-11-11,https://yaynyc.com/bars/evalyn-s-tap-house-gowanus
+Everything's Jake,Union Square,Manhattan,6,12,12,11,2026-11-10,https://yaynyc.com/bars/everything-s-jake-union-square
+Fabrika,Jackson Heights,Queens,5,6,,,2026-11-09,https://yaynyc.com/bars/fabrika-jackson-heights
+Faces & Names,Times Square,Manhattan,5,6,,8,2026-10-17,https://yaynyc.com/bars/faces-names-times-square
+Famous Last Words,Clinton Hill,Brooklyn,6,7,,8,2026-11-09,https://yaynyc.com/bars/famous-last-words-prospect-heights
+Filé Gumbo Bar,Tribeca,Manhattan,7,5,8,,2026-11-12,https://yaynyc.com/bars/file-gumbo-bar-tribeca
+Finn's Corner,Prospect Heights,Brooklyn,,6,,5,2026-11-12,https://yaynyc.com/bars/finn-s-corner-prospect-heights
+Flying Cock,Kips Bay,Manhattan,6,6,3,10,2026-11-11,https://yaynyc.com/bars/flying-cock-murray-hill
+Fogo de Chão,Times Square,Manhattan,6,8,10,,2026-11-12,https://yaynyc.com/bars/fogo-de-cha-o-times-square
+Follia,Gramercy,Manhattan,,10,12,,2026-11-10,https://yaynyc.com/bars/follia-gramercy
+Fort Washington Public House,Washington Heights,Manhattan,13,,,,2026-11-07,https://yaynyc.com/bars/fort-washington-public-house-washington-heights
+Fortina,Downtown Brooklyn,Brooklyn,20,,,,2026-09-02,https://yaynyc.com/bars/fortina-downtown-brooklyn
+Foursome Bar and Restaurant,Greenwich Village,Manhattan,,,6,,2026-11-09,https://yaynyc.com/bars/foursome-bar-and-restaurant-greenwich-village
+Friki Tiki,Hell's Kitchen,Manhattan,9,10,,,2026-11-12,https://yaynyc.com/bars/friki-tiki-hell-s-kitchen
+Full Shilling,Financial District,Manhattan,8,7,6,,2026-11-09,https://yaynyc.com/bars/full-shilling-financial-district
+Gastromarket Ltd,Chelsea,Manhattan,9,,14,,2026-11-11,https://yaynyc.com/bars/gastromarket-ltd-chelsea
+Gebhard's Beer Culture,Upper West Side,Manhattan,7,12,,,2026-11-07,https://yaynyc.com/bars/gebhard-s-beer-culture-upper-west-side
+Glass Ceiling Rooftop,Koreatown,Manhattan,,,10,,2026-11-09,https://yaynyc.com/bars/glass-ceiling-rooftop-koreatown
+Gnocco,East Village,Manhattan,6,10,12,,2026-11-12,https://yaynyc.com/bars/gnocco-east-village
+Gordo's Cantina,Bushwick,Brooklyn,,,11,8,2026-11-12,https://yaynyc.com/bars/gordo-s-cantina-bushwick
+Gran Torino,Williamsburg,Brooklyn,,9,13,10,2026-10-25,https://yaynyc.com/bars/gran-torino-williamsburg
+Grand Army,Downtown Brooklyn,Brooklyn,,,8,,2026-10-27,https://yaynyc.com/bars/grand-army-downtown-brooklyn
+Grand Eleven,SoHo,Manhattan,7,10,12,8,2026-11-06,https://yaynyc.com/bars/grand-eleven-soho
+Greenwich Treehouse,West Village,Manhattan,,,,5,2026-11-12,https://yaynyc.com/bars/greenwich-treehouse
+Grey Lady,Lower East Side,Manhattan,6,9,,,2026-11-06,https://yaynyc.com/bars/grey-lady-lower-east-side
+Greywind,Hell's Kitchen,Manhattan,,10,12,,2026-11-07,https://yaynyc.com/bars/greywind-chelsea
+Gu Japanese Fusion Sushi & Bar,Murray Hill,Manhattan,,7,,,2026-10-25,https://yaynyc.com/bars/gu-japanese-fusion-sushi-bar-murray-hill
+Guantanamera,Forest Hills,Queens,7,8,,,2026-09-02,https://yaynyc.com/bars/guantanamera-forest-hills
+Guantanamera,Hell's Kitchen,Manhattan,7,8,,,2026-09-02,https://yaynyc.com/bars/guantanamera-hell-s-kitchen
+Gugu Room,Lower East Side,Manhattan,6,7,12,,2026-11-09,https://yaynyc.com/bars/gugu-room-lower-east-side
+Half Moon,Financial District,Manhattan,8,9,,,2026-11-06,https://yaynyc.com/bars/half-moon-financial-district
+Hard Rock Cafe,Times Square,Manhattan,,,7,,2026-11-07,https://yaynyc.com/bars/hard-rock-cafe-times-square
+Harlem Tavern,Harlem,Manhattan,6,8,10,,2026-11-12,https://yaynyc.com/bars/harlem-tavern-harlem
+Hart Bar,Bushwick,Brooklyn,,7,12,6,2026-09-02,https://yaynyc.com/bars/hart-bar-bushwick
+Havana Central,Times Square,Manhattan,,8,9,,2026-11-07,https://yaynyc.com/bars/havana-central-times-square
+Havana Social,Financial District,Manhattan,,10,,9,2026-11-06,https://yaynyc.com/bars/havana-social-financial-district
+Hellbender,Ridgewood,Queens,,,10,,2026-11-07,https://yaynyc.com/bars/hellbender-ridgewood
+Hello Bar Bk,Crown Heights,Brooklyn,5,9,12,,2026-11-09,https://yaynyc.com/bars/hello-bar-bk-crown-heights
+Hi Life Bar & Grill,Upper West Side,Manhattan,7,,8,8,2026-11-12,https://yaynyc.com/bars/hi-life-bar-grill-upper-west-side
+Hide Rooftop,Financial District,Manhattan,7,10,14,,2026-10-24,https://yaynyc.com/bars/hide-rooftop-financial-district
+High Dive,Park Slope,Brooklyn,,,,4,2026-11-06,https://yaynyc.com/bars/high-dive-park-slope
+Highwater Rooftop,Financial District,Manhattan,,9,9,,2026-11-11,https://yaynyc.com/bars/highwater-rooftop-financial-district
+Hill Country Barbecue Market,Flatiron,Manhattan,10,,7,,2026-09-02,https://yaynyc.com/bars/hill-country-barbecue-market-flatiron
+Hofbräu Bierhaus NYC,Midtown,Manhattan,7,7,,7,2026-11-07,https://yaynyc.com/bars/hofbra-u-bierhaus-nyc-murray-hill
+Hole In The Wall,Murray Hill,Manhattan,,10,6,,2026-11-09,https://yaynyc.com/bars/hole-in-the-wall-murray-hill
+Hole In The Wall,Williamsburg,Brooklyn,,10,10,,2026-11-08,https://yaynyc.com/bars/hole-in-the-wall-williamsburg
+Houston Hall,Greenwich Village,Manhattan,6.95,10.5,10.5,,2026-11-10,https://yaynyc.com/bars/houston-hall-greenwich-village
+Hudson Hound,West Village,Manhattan,7.22,10.31,,,2026-11-06,https://yaynyc.com/bars/hudson-hound-west-village
+Hutch Astoria,Astoria,Queens,,,,5,2026-11-11,https://yaynyc.com/bars/hutch-astoria-astoria
+Il Mulino,Midtown,Manhattan,,,12,,2026-11-07,https://yaynyc.com/bars/il-mulino-times-square
+Industry Kitchen,Financial District,Manhattan,8,10,10,,2026-11-07,https://yaynyc.com/bars/industry-kitchen-financial-district
+Inwood Bar & Grill,Inwood,Manhattan,3,,,1,2026-11-09,https://yaynyc.com/bars/inwood-bar-grill-inwood
+Jack Demsey's,Koreatown,Manhattan,7.5,10,,10,2026-11-06,https://yaynyc.com/bars/jack-demsey-s-koreatown
+Jones Wood Foundry,Upper East Side,Manhattan,,10,,,2026-11-09,https://yaynyc.com/bars/jones-wood-foundry-upper-east-side
+Josie Woods Pub,Union Square,Manhattan,5,8,10,6,2026-11-12,https://yaynyc.com/bars/josie-woods-pub-union-square
+Judy Z's Sports Tavern & Kitchen,Greenwich Village,Manhattan,6,,,,2026-11-10,https://yaynyc.com/bars/judy-z-s-sports-tavern-kitchen-greenwich-village
+Juke Bar,East Village,Manhattan,7,7,,7,2026-11-09,https://yaynyc.com/bars/juke-bar-east-village
+Juke Bar,Bushwick,Brooklyn,5,7,10,,2026-11-10,https://yaynyc.com/bars/juke-bar-bushwick
+Juniper,Koreatown,Manhattan,8,9,10,,2026-10-24,https://yaynyc.com/bars/juniper-koreatown
+Karasu,Fort Greene,Brooklyn,,,9,12,2026-09-02,https://yaynyc.com/bars/karasu-fort-greene
+Kashkaval Garden,Hell's Kitchen,Manhattan,8,8,,8,2026-11-10,https://yaynyc.com/bars/kashkaval-garden-hell-s-kitchen
+Katana Kitten,Greenwich Village,Manhattan,,,12,,2026-11-10,https://yaynyc.com/bars/katana-kitten-greenwich-village
+Keg & Lantern,Greenpoint,Brooklyn,6,,,,2026-11-12,https://yaynyc.com/bars/keg-lantern-greenpoint
+Keg & Lantern Brewery,Red Hook,Brooklyn,6,,,,2026-11-10,https://yaynyc.com/bars/keg-lantern-brewery-red-hook
+Kent Ale House,Williamsburg,Brooklyn,,,,10,2026-11-11,https://yaynyc.com/bars/kent-ale-house-williamsburg
+Kurant,Midtown,Manhattan,6,9,,,2026-11-11,https://yaynyc.com/bars/kurant-murray-hill
+Kyma,Union Square,Manhattan,15,7,,,2026-11-11,https://yaynyc.com/bars/kyma-union-square
+Kyma Hudson Yards,Hell's Kitchen,Manhattan,15,7,,,2026-11-06,https://yaynyc.com/bars/kyma-hudson-yards-chelsea
+L'accolade,Greenwich Village,Manhattan,,,10,,2026-11-10,https://yaynyc.com/bars/l-accolade-greenwich-village
+La Caverna,Lower East Side,Manhattan,6,8,10,6,2026-11-07,https://yaynyc.com/bars/la-caverna-lower-east-side
+La Loncheria,Bushwick,Brooklyn,,9,10,,2026-10-20,https://yaynyc.com/bars/la-loncheria-bushwick
+La Palapa Cocina Mexicana,East Village,Manhattan,9,,,,2026-11-06,https://yaynyc.com/bars/la-palapa-cocina-mexicana-east-village
+La Pecora Bianca,Murray Hill,Manhattan,,10,,,2026-10-25,https://yaynyc.com/bars/la-pecora-bianca-murray-hill
+La Perla Nascosta,Upper West Side,Manhattan,,9,10,,2026-09-02,https://yaynyc.com/bars/la-perla-nascosta-upper-west-side
+La Vecina Astoria,Astoria,Queens,,,6,,2026-11-10,https://yaynyc.com/bars/la-vecina-astoria-astoria
+Lady Blue,Hell's Kitchen,Manhattan,6,9,10,,2026-11-06,https://yaynyc.com/bars/lady-blue-hell-s-kitchen
+Lavender Lake,Gowanus,Brooklyn,15,,12,,2026-10-27,https://yaynyc.com/bars/lavender-lake-gowanus
+Layla,Williamsburg,Brooklyn,6,,,,2026-11-12,https://yaynyc.com/bars/layla-williamsburg
+Lazy Point,SoHo,Manhattan,,,10,,2026-11-08,https://yaynyc.com/bars/lazy-point-soho
+Le District,Battery Park City,Manhattan,6,10,14,,2026-10-18,https://yaynyc.com/bars/le-district-financial-district
+Leaf Bar & Lounge,Flushing,Queens,5,8,9,,2026-10-24,https://yaynyc.com/bars/leaf-bar-lounge-flushing
+Left Bank,West Village,Manhattan,8,10,12,,2026-11-07,https://yaynyc.com/bars/left-bank-west-village
+Legacy Bar & Grill,Washington Heights,Manhattan,6,8,8,,2026-10-25,https://yaynyc.com/bars/legacy-bar-grill-washington-heights
+Legasea Bar & Grill,Koreatown,Manhattan,6,8,10,,2026-11-12,https://yaynyc.com/bars/legasea-bar-grill-koreatown
+Lelabar,Greenwich Village,Manhattan,7,14,,,2026-11-12,https://yaynyc.com/bars/lelabar-greenwich-village
+Levant,Cobble Hill,Brooklyn,,10,,,2026-10-25,https://yaynyc.com/bars/levant-cobble-hill
+Leyla,Upper West Side,Manhattan,,,11,,2026-11-08,https://yaynyc.com/bars/leyla-upper-west-side
+Lido,Harlem,Manhattan,6,9,,9,2026-11-11,https://yaynyc.com/bars/lido-harlem
+Lilly's Cocktail and Wine,Upper West Side,Manhattan,5,,10,,2026-11-09,https://yaynyc.com/bars/lilly-s-cocktail-and-wine-upper-west-side
+Limosneros,Williamsburg,Brooklyn,,8,8,,2026-11-12,https://yaynyc.com/bars/limosneros-williamsburg
+Linen Hall,Union Square,Manhattan,,,5,,2026-11-06,https://yaynyc.com/bars/linen-hall-union-square
+Little Biggs,Midtown,Manhattan,10,7,,,2026-11-06,https://yaynyc.com/bars/little-biggs-midtown
+LOLITA,Midtown,Manhattan,,11,12,,2026-11-06,https://yaynyc.com/bars/lolita-midtown
+Los Mismos Amigos,Corona,Queens,,,,2.99,2026-11-11,https://yaynyc.com/bars/los-mismos-amigos-flushing
+Lucky,East Village,Manhattan,6,,13,,2026-11-07,https://yaynyc.com/bars/lucky-east-village
+Lucky Tiger,Financial District,Manhattan,,13,17,8,2026-11-12,https://yaynyc.com/bars/lucky-tiger-financial-district
+Lucky's Cocktail Lounge,Bed-Stuy,Brooklyn,,,7,,2026-11-10,https://yaynyc.com/bars/lucky-s-cocktail-lounge-bed-stuy
+Lydia's,East Village,Manhattan,5,8,8,8,2026-11-06,https://yaynyc.com/bars/lydia-s-lower-east-side
+Mad Dog & Beans Mexican Cantina,Midtown,Manhattan,6,7,9,,2026-11-08,https://yaynyc.com/bars/mad-dog-beans-mexican-cantina-midtown
+Mad Dog and Beans,Financial District,Manhattan,6,7,9,,2026-11-06,https://yaynyc.com/bars/mad-dog-and-beans-financial-district
+Mad Tropical,Bushwick,Brooklyn,,,6,,2026-11-06,https://yaynyc.com/bars/mad-tropical-bushwick
+Madam Mikette's,Midtown,Manhattan,,9,12,,2026-11-11,https://yaynyc.com/bars/madam-mikette-s-murray-hill
+Madame X,Greenwich Village,Manhattan,7,,,10,2026-11-12,https://yaynyc.com/bars/madame-x-soho
+Maman Nyc,Nolita,Manhattan,,,8,,2026-11-09,https://yaynyc.com/bars/maman-nyc-nolita
+Mamazul Mexican Grill,Midtown,Manhattan,6,9,12,,2026-11-07,https://yaynyc.com/bars/mamazul-mexican-grill-flatiron
+Mar's,Astoria,Queens,,,12,,2026-11-10,https://yaynyc.com/bars/mar-s-astoria
+Maracuya,Williamsburg,Brooklyn,6,,9,,2026-11-06,https://yaynyc.com/bars/maracuya-williamsburg
+Margaux by La Sirène,Midtown,Manhattan,8,9,,10,2026-10-24,https://yaynyc.com/bars/margaux-by-la-sire-ne-koreatown
+Maru Karaoke Lounge,Koreatown,Manhattan,5,,15,8,2026-11-09,https://yaynyc.com/bars/maru-karaoke-lounge-koreatown
+Mary's,Lower East Side,Manhattan,,10,12,,2026-11-06,https://yaynyc.com/bars/mary-s-lower-east-side
+Massawa,Morningside Heights,Manhattan,,,8,,2026-11-07,https://yaynyc.com/bars/massawa-harlem
+Max Soha,Morningside Heights,Manhattan,5,5,,,2026-11-11,https://yaynyc.com/bars/max-soha-harlem
+Maya by Chef Richard Sandoval - NYC,Upper East Side,Manhattan,6,6,8,,2026-11-08,https://yaynyc.com/bars/maya-by-chef-richard-sandoval-nyc-upper-east-side
+Mayahuel,Astoria,Queens,6,8,10,,2026-11-02,https://yaynyc.com/bars/mayahuel-astoria
+Mēdüzā Mediterrania,West Village,Manhattan,,,9,,2026-11-12,https://yaynyc.com/bars/me-du-za-mediterrania-west-village
+Meller's Sports Hub & Grill,Upper East Side,Manhattan,,4,15,,2026-10-28,https://yaynyc.com/bars/meller-s-sports-hub-grill-upper-east-side
+Mezze on the River,Battery Park City,Manhattan,6,,9,,2026-09-02,https://yaynyc.com/bars/mezze-on-the-river-financial-district
+Mi Garba,Greenwich Village,Manhattan,6,9,10,,2026-11-07,https://yaynyc.com/bars/mi-garba-greenwich-village
+Miatzil,Park Slope,Brooklyn,,6,10,,2026-11-10,https://yaynyc.com/bars/miatzil-park-slope
+Michael's New York,Times Square,Manhattan,,,12,,2026-10-20,https://yaynyc.com/bars/michael-s-new-york-times-square
+Mila's Bistro,Lower East Side,Manhattan,8,,10,,2026-11-10,https://yaynyc.com/bars/mila-s-bistro-lower-east-side
+Mile 17,Upper East Side,Manhattan,5,,,,2026-11-06,https://yaynyc.com/bars/mile-17-upper-east-side
+Minibar,Carroll Gardens,Brooklyn,,,9,5,2026-11-10,https://yaynyc.com/bars/minibar-carroll-gardens
+Molyvos,Hell's Kitchen,Manhattan,,10,10,,2026-11-07,https://yaynyc.com/bars/molyvos-hell-s-kitchen
+Monarch,Williamsburg,Brooklyn,,,10,,2026-11-09,https://yaynyc.com/bars/monarch-williamsburg
+Mostrador NYC,Chinatown,Manhattan,9,,6,,2026-09-02,https://yaynyc.com/bars/mostrador-nyc-soho
+Motel No Tell,East Village,Manhattan,6,9,10,,2026-11-04,https://yaynyc.com/bars/motel-no-tell-east-village
+Mozzarella & Vino,Times Square,Manhattan,,,16,,2026-11-07,https://yaynyc.com/bars/mozzarella-vino-times-square
+Mulligan's Pub,Murray Hill,Manhattan,7,8,10,7,2026-09-02,https://yaynyc.com/bars/mulligan-s-pub-murray-hill
+Nerina,Greenpoint,Brooklyn,,10,,,2026-10-24,https://yaynyc.com/bars/nerina-greenpoint
+Niagara,East Village,Manhattan,5,5,,8,2026-11-12,https://yaynyc.com/bars/niagara-east-village
+Nightly's,Upper East Side,Manhattan,8,11,,,2026-10-27,https://yaynyc.com/bars/nightly-s-upper-east-side
+No No No,Midtown,Manhattan,,,9,,2026-11-06,https://yaynyc.com/bars/no-no-no-koreatown
+NºBetween,Chelsea,Manhattan,15,,14,,2026-11-06,https://yaynyc.com/bars/nobetween-chelsea
+Northern Bell,Williamsburg,Brooklyn,,8,,7,2026-11-12,https://yaynyc.com/bars/northern-bell-williamsburg
+Nostrand Station Bar & Lounge,Crown Heights,Brooklyn,8,,10,7,2026-11-06,https://yaynyc.com/bars/nostrand-station-bar-lounge-crown-heights
+O'Flanagan's,Upper East Side,Manhattan,,,,3,2026-11-10,https://yaynyc.com/bars/o-flanagan-s-upper-east-side
+Olde City,Midtown,Manhattan,6,10,9,,2026-10-22,https://yaynyc.com/bars/olde-city-flatiron
+Olea,Fort Greene,Brooklyn,5,7,,,2026-11-07,https://yaynyc.com/bars/olea-fort-greene
+Oliver's Astoria,Astoria,Queens,,,10,3,2026-11-11,https://yaynyc.com/bars/oliver-s-astoria-astoria
+Orion Bar,Bushwick,Brooklyn,5,,,,2026-11-06,https://yaynyc.com/bars/orion-bar-bushwick
+Osteria Nonnino,West Village,Manhattan,5,8,10,,2026-09-03,https://yaynyc.com/bars/osteria-nonnino-west-village
+OTB,Williamsburg,Brooklyn,,10,10,9,2026-11-09,https://yaynyc.com/bars/otb-williamsburg
+Ottava,Park Slope,Brooklyn,,12,12,,2026-11-11,https://yaynyc.com/bars/ottava-park-slope
+Panda Harlem,Harlem,Manhattan,,7,10,,2026-11-09,https://yaynyc.com/bars/panda-harlem-harlem
+Panzón,Greenpoint,Brooklyn,13,,10,,2026-11-09,https://yaynyc.com/bars/panzo-n-greenpoint
+Papacito's,Greenpoint,Brooklyn,5,,5,6,2026-11-11,https://yaynyc.com/bars/papacito-s-greenpoint
+Park Rose NYC,Koreatown,Manhattan,8,10,12,,2026-11-07,https://yaynyc.com/bars/park-rose-nyc-koreatown
+Pasta Louise,Park Slope,Brooklyn,,,12,,2026-11-12,https://yaynyc.com/bars/pasta-louise-park-slope
+Pasta Louise Cafe,Park Slope,Brooklyn,,,12,,2026-11-11,https://yaynyc.com/bars/pasta-louise-cafe-park-slope
+Patrick's on the Hill,Harlem,Manhattan,,,5,,2026-11-08,https://yaynyc.com/bars/patrick-s-on-the-hill-harlem
+Pepe Rosso,Greenwich Village,Manhattan,5,5,,,2026-11-09,https://yaynyc.com/bars/pepe-rosso-soho
+Pera,Midtown,Manhattan,,,12,,2026-10-25,https://yaynyc.com/bars/pera-midtown
+Pera SoHo,SoHo,Manhattan,10,10,10,,2026-10-31,https://yaynyc.com/bars/pera-soho-soho
+Pete's Candy Store,Williamsburg,Brooklyn,5,6,,6,2026-11-08,https://yaynyc.com/bars/pete-s-candy-store-williamsburg
+Phebes,East Village,Manhattan,5,8,10,,2026-11-06,https://yaynyc.com/bars/phebes-nolita
+Philippe Chow Downtown,Chelsea,Manhattan,,,10,,2026-10-25,https://yaynyc.com/bars/philippe-chow-downtown-chelsea
+Phoenix Bar,East Village,Manhattan,,6,,,2026-11-08,https://yaynyc.com/bars/phoenix-bar-east-village
+Piccolino Restaurant,Great Kills,Staten Island,8,4,10,,2026-11-07,https://yaynyc.com/bars/piccolino-restaurant
+​PLANTED CAFE,Carroll Gardens,Brooklyn,6,12,,,2026-11-07,https://yaynyc.com/bars/planted-cafe-carroll-gardens
+Playa Betty's,Upper West Side,Manhattan,6,20,,,2026-11-09,https://yaynyc.com/bars/playa-betty-s-upper-west-side
+Playwright Irish Pub,Koreatown,Manhattan,6,,,,2026-09-02,https://yaynyc.com/bars/playwright-irish-pub-koreatown
+Pongal,Kips Bay,Manhattan,5,9,,,2026-11-12,https://yaynyc.com/bars/pongal-flatiron
+Ponty Bistro,Harlem,Manhattan,7,10,10,,2026-11-12,https://yaynyc.com/bars/ponty-bistro-harlem
+Popina,Cobble Hill,Brooklyn,5,10,8,,2026-11-09,https://yaynyc.com/bars/popina-cobble-hill
+Porchlight,Chelsea,Manhattan,,,14,,2026-11-11,https://yaynyc.com/bars/porchlight-chelsea
+Post No Bills,Williamsburg,Brooklyn,,,7,5,2026-11-08,https://yaynyc.com/bars/post-no-bills-williamsburg
+Provini,Park Slope,Brooklyn,6,10,,,2026-09-02,https://yaynyc.com/bars/provini-park-slope
+R40,Long Island City,Queens,,15,,,2026-11-10,https://yaynyc.com/bars/r40-long-island-city
+Rafele,Greenwich Village,Manhattan,6,9,,,2026-11-12,https://yaynyc.com/bars/rafele-greenwich-village
+Raizes Churrascaria,Greenpoint,Brooklyn,,30,,8,2026-11-07,https://yaynyc.com/bars/raizes-churrascaria-greenpoint
+Ray's,Greenpoint,Brooklyn,15,,14,10,2026-11-11,https://yaynyc.com/bars/ray-s-greenpoint
+Ray's,Lower East Side,Manhattan,6,,20,6,2026-11-07,https://yaynyc.com/bars/ray-s-nolita
+Redeye Grill,Times Square,Manhattan,,,10,,2026-09-02,https://yaynyc.com/bars/redeye-grill-times-square
+Riviera Maya,Astoria,Queens,6,,8,,2026-11-09,https://yaynyc.com/bars/riviera-maya-astoria
+Rockaway Brewing Company,Arverne,Queens,10,,,,2026-11-12,https://yaynyc.com/bars/rockaway-brewing-company
+Romeo's,East Village,Manhattan,,14,,,2026-11-10,https://yaynyc.com/bars/romeo-s-east-village
+Rosa’s At Park,Mott Haven,The Bronx,6,7,8,5,2026-11-09,https://yaynyc.com/bars/rosa-s-at-park-east-harlem
+Route 66 Smokehouse,Financial District,Manhattan,6,9,10,8,2026-11-11,https://yaynyc.com/bars/route-66-smokehouse-financial-district
+Russian Samovar Restaurant and Piano Bar,Times Square,Manhattan,7,8,,,2026-11-10,https://yaynyc.com/bars/russian-samovar-restaurant-and-piano-bar-times-square
+Rusty Nail Brooklyn,Brooklyn,Brooklyn,,,,6,2026-11-10,https://yaynyc.com/bars/rusty-nail-brooklyn
+Ryan Maguire's Bar & Restaurant,Financial District,Manhattan,5,9,,,2026-10-25,https://yaynyc.com/bars/ryan-maguire-s-bar-restaurant-financial-district
+Saar Indian Restaurant,Times Square,Manhattan,4,,5,,2026-11-09,https://yaynyc.com/bars/saar-indian-restaurant-times-square
+Sadie's,Financial District,Manhattan,,,10,,2026-10-30,https://yaynyc.com/bars/sadie-s-financial-district
+Sahara's Turkish Cuisine,Kips Bay,Manhattan,,15.95,,,2026-11-06,https://yaynyc.com/bars/sahara-s-turkish-cuisine-murray-hill
+Saint Eves,Park Slope,Brooklyn,6,14,14,,2026-10-27,https://yaynyc.com/bars/saint-eves-park-slope
+Sally Can Wait,Lower East Side,Manhattan,,8,12,10,2026-09-02,https://yaynyc.com/bars/sally-can-wait-lower-east-side
+San Carlo Osteria Piemonte,SoHo,Manhattan,,12,12,,2026-11-04,https://yaynyc.com/bars/san-carlo-osteria-piemonte-soho
+San Loco,East Village,Manhattan,,,13,,2026-11-07,https://yaynyc.com/bars/san-loco-east-village
+Santa Panza,Bushwick,Brooklyn,,,10,5,2026-09-02,https://yaynyc.com/bars/santa-panza-bushwick
+Santiago's Beer Garden,East Harlem,Manhattan,,7,12,,2026-09-02,https://yaynyc.com/bars/santiago-s-beer-garden-east-harlem
+Sarabeth's,Upper West Side,Manhattan,7,7,10,,2026-11-11,https://yaynyc.com/bars/sarabeth-s-upper-west-side
+Sea Wolf,Bushwick,Brooklyn,8,8,,,2026-10-27,https://yaynyc.com/bars/sea-wolf-bushwick
+Secret Pour,Bed-Stuy,Brooklyn,,5,,,2026-11-06,https://yaynyc.com/bars/secret-pour-bushwick
+Sefton,Upper East Side,Manhattan,7,,10,,2026-11-09,https://yaynyc.com/bars/sefton-upper-east-side
+Selune,Bed-Stuy,Brooklyn,,9,10,,2026-11-12,https://yaynyc.com/bars/selune-bed-stuy
+Seven Sins,Gramercy,Manhattan,7,7,12,,2026-11-09,https://yaynyc.com/bars/seven-sins-gramercy
+Shiraz Kitchen & Wine Bar,Union Square,Manhattan,8,10,10,,2026-10-25,https://yaynyc.com/bars/shiraz-kitchen-wine-bar-union-square
+Sing Sing Ave A.,East Village,Manhattan,5,5,,,2026-11-10,https://yaynyc.com/bars/sing-sing-ave-a-east-village
+Siren,Park Slope,Brooklyn,,,12,,2026-10-20,https://yaynyc.com/bars/siren-gowanus
+Smoke Jazz & Supper Club,Upper West Side,Manhattan,,14,,,2026-11-11,https://yaynyc.com/bars/smoke-jazz-supper-club-upper-west-side
+Smør,East Village,Manhattan,,5,9,,2026-11-06,https://yaynyc.com/bars/sm-r-east-village
+Snafu,Midtown,Manhattan,,12,,8,2026-11-11,https://yaynyc.com/bars/snafu-murray-hill
+Society Billiards + Bar,Flatiron,Manhattan,,,18,,2026-11-06,https://yaynyc.com/bars/society-billiards-bar-flatiron
+Soho Park - Beer Garden & Street Food,Nolita,Manhattan,7,8,10,,2026-11-08,https://yaynyc.com/bars/soho-park-beer-garden-street-food-nolita
+Sonnyboy,Lower East Side,Manhattan,7,12,12,,2026-11-11,https://yaynyc.com/bars/sonnyboy-lower-east-side
+Sophistian Mexican Pizzeria,Astoria,Queens,5,7,8,,2026-11-07,https://yaynyc.com/bars/sophistian-mexican-pizzeria-astoria
+Spanglish NYC,Astoria,Queens,6,7,10,,2026-11-03,https://yaynyc.com/bars/spanglish-nyc-astoria
+Spicy Moon,East Village,Manhattan,7,7,10,,2026-10-20,https://yaynyc.com/bars/spicy-moon-east-village
+Spicy Moon,Greenwich Village,Manhattan,7,7,10,,2026-10-20,https://yaynyc.com/bars/spicy-moon-greenwich-village
+Spicy Moon,Lower East Side,Manhattan,7,7,10,,2026-10-20,https://yaynyc.com/bars/spicy-moon-nolita
+Spicy Shallot,Jackson Heights,Queens,6,,11,,2026-11-06,https://yaynyc.com/bars/spicy-shallot-jackson-heights
+Starchild Rooftop Bar & Lounge,Times Square,Manhattan,,,15,16,2026-10-24,https://yaynyc.com/bars/starchild-rooftop-bar-lounge-times-square
+Stella 34 Trattoria,Koreatown,Manhattan,8,9,10,,2026-10-17,https://yaynyc.com/bars/stella-34-trattoria-koreatown
+Suyo Gastrofusion,Mount Eden,The Bronx,,8,,,2026-11-06,https://yaynyc.com/bars/suyo-gastrofusion-washington-heights
+Sweet Afton,Astoria,Queens,,,10,10,2026-11-10,https://yaynyc.com/bars/sweet-afton-astoria
+Sweet Catch BK,Crown Heights,Brooklyn,,11,11,,2026-11-12,https://yaynyc.com/bars/sweet-catch-bk-crown-heights
+Sweet Spot Sporting Lounge & Bar,Astoria,Queens,5,,,6,2026-09-02,https://yaynyc.com/bars/sweet-spot-sporting-lounge-bar-astoria
+Sylvia's Restaurant,Harlem,Manhattan,,5,10,,2026-11-08,https://yaynyc.com/bars/sylvia-s-restaurant-harlem
+Syndicated Bar Theater Kitchen,Williamsburg,Brooklyn,,7,10,,2026-11-07,https://yaynyc.com/bars/syndicated-bar-theater-kitchen-bushwick
+Table 87 Coal Oven Pizza,Gowanus,Brooklyn,8,,6,,2026-11-12,https://yaynyc.com/bars/table-87-coal-oven-pizza-gowanus
+Tacocina,Williamsburg,Brooklyn,,9,9,,2026-11-09,https://yaynyc.com/bars/tacocina-williamsburg
+Take Care,Murray Hill,Manhattan,,8,10,,2026-11-11,https://yaynyc.com/bars/take-care-murray-hill
+Talon Bar,Bushwick,Brooklyn,5,,,,2026-11-06,https://yaynyc.com/bars/talon-bar-bushwick
+Tanner Smith's,Times Square,Manhattan,6,,12,,2026-11-12,https://yaynyc.com/bars/tanner-smith-s-times-square
+Tara Mor | NYC,Chelsea,Manhattan,8,12,10,,2026-11-12,https://yaynyc.com/bars/tara-mor-nyc-koreatown
+Tara Rose,Kips Bay,Manhattan,8,10,8,,2026-11-12,https://yaynyc.com/bars/tara-rose-gramercy
+Tarallucci e Vino,Flatiron,Manhattan,,11,,,2026-10-25,https://yaynyc.com/bars/tarallucci-e-vino-flatiron
+Tavern29,Midtown,Manhattan,7,9,9,,2026-09-02,https://yaynyc.com/bars/tavern29-koreatown
+Teddy's F&B Bar & Grill,East Harlem,Manhattan,15,,6,,2026-11-10,https://yaynyc.com/bars/teddy-s-f-b-bar-grill-east-harlem
+Ten Bells,Lower East Side,Manhattan,,20,,,2026-11-07,https://yaynyc.com/bars/ten-bells-lower-east-side
+Terravita,Washington Heights,Manhattan,8,,10,,2026-11-08,https://yaynyc.com/bars/terravita-washington-heights
+Terraza 7,Elmhurst,Queens,7,8,8,8,2026-11-09,https://yaynyc.com/bars/terraza-7-jackson-heights
+The Alvin Public House,Upper East Side,Manhattan,,,8,8,2026-11-11,https://yaynyc.com/bars/the-alvin-public-house-upper-east-side
+The Anchored Inn,Williamsburg,Brooklyn,15,,,,2026-11-11,https://yaynyc.com/bars/the-anchored-inn-williamsburg
+The Bad Old Days,Ridgewood,Queens,,6,,5,2026-11-07,https://yaynyc.com/bars/the-bad-old-days-ridgewood
+The Bar Room,Upper East Side,Manhattan,,,12,,2026-11-06,https://yaynyc.com/bars/the-bar-room-midtown
+The Binc,Brooklyn Heights,Brooklyn,6,12,15,,2026-10-24,https://yaynyc.com/bars/the-binc-brooklyn-heights
+The Black Sheep Sports Bar N.Y.C,Murray Hill,Manhattan,6,,,5,2026-11-10,https://yaynyc.com/bars/the-black-sheep-sports-bar-n-y-c-murray-hill
+The Bonnie,Astoria,Queens,,,,10,2026-11-10,https://yaynyc.com/bars/the-bonnie-astoria
+The Brazen Head,Boerum Hill,Brooklyn,5,,,7,2026-11-07,https://yaynyc.com/bars/the-brazen-head-cobble-hill
+The Brewery Bar & Kitchen,Astoria,Queens,5,,,,2026-11-12,https://yaynyc.com/bars/the-brewery-bar-kitchen-astoria
+The Commissioner,Park Slope,Brooklyn,,,,8,2026-11-07,https://yaynyc.com/bars/the-commissioner-park-slope
+The Cooper Still,Chelsea,Manhattan,6,10,12,8,2026-10-20,https://yaynyc.com/bars/the-cooper-still-chelsea
+The Crown,Chinatown,Manhattan,,6,,10,2026-10-15,https://yaynyc.com/bars/the-crown-chinatown
+The Dawson,Midtown,Manhattan,,10,,,2026-11-10,https://yaynyc.com/bars/the-dawson-midtown
+The Dawson 39,Midtown,Manhattan,7.25,9.28,10.31,,2026-11-08,https://yaynyc.com/bars/the-dawson-39-midtown
+The Ditty,Astoria,Queens,5,7,10,,2026-11-07,https://yaynyc.com/bars/the-ditty-astoria
+The Emerson,Clinton Hill,Brooklyn,,,,7,2026-11-09,https://yaynyc.com/bars/the-emerson-fort-greene
+The Factory 380,Kips Bay,Manhattan,,9,10,,2026-11-11,https://yaynyc.com/bars/the-factory-380-gramercy
+The Five Lamps,Upper East Side,Manhattan,,9,10,,2026-11-10,https://yaynyc.com/bars/the-five-lamps-upper-east-side
+The Fleur Room,Chelsea,Manhattan,9,,9,,2026-11-11,https://yaynyc.com/bars/the-fleur-room-koreatown
+The Gin Mill,Upper West Side,Manhattan,5,,,8,2026-11-09,https://yaynyc.com/bars/the-gin-mill-upper-west-side
+The Great Georgiana,Fort Greene,Brooklyn,7,7,,10,2026-09-02,https://yaynyc.com/bars/the-great-georgiana-fort-greene
+The Grey Dog,Nolita,Manhattan,,5,8,,2026-11-08,https://yaynyc.com/bars/the-grey-dog-nolita
+The Grey Dog,Union Square,Manhattan,,5,8,,2026-11-10,https://yaynyc.com/bars/the-grey-dog-union-square
+The Grey Dog,Greenwich Village,Manhattan,,5,8,,2026-11-08,https://yaynyc.com/bars/the-grey-dog-greenwich-village
+The Heights Bar & Grill,Morningside Heights,Manhattan,,,,7,2026-11-10,https://yaynyc.com/bars/the-heights-bar-grill-harlem
+The Honey Well,Harlem,Manhattan,,,10,,2026-11-06,https://yaynyc.com/bars/the-honey-well-washington-heights
+The Horny Ram,Midtown,Manhattan,6,13,11,,2026-11-09,https://yaynyc.com/bars/the-horny-ram-murray-hill
+The Hunterian,Upper East Side,Manhattan,,9,,7,2026-11-08,https://yaynyc.com/bars/the-hunterian-upper-east-side
+The Lexington Social,East Harlem,Manhattan,6,8,8,9,2026-11-08,https://yaynyc.com/bars/the-lexington-social-east-harlem
+The Little Whiskey,Bushwick,Brooklyn,,8,,8,2026-11-12,https://yaynyc.com/bars/the-little-whiskey-bushwick
+The Mary Lane,West Village,Manhattan,10,,10,,2026-09-02,https://yaynyc.com/bars/the-mary-lane-west-village
+The Molly Pitcher Club,Hell's Kitchen,Manhattan,7,8,,8,2026-11-12,https://yaynyc.com/bars/the-molly-pitcher-club-hell-s-kitchen
+The Naked Pig,Midtown,Manhattan,6,,12,8,2026-11-10,https://yaynyc.com/bars/the-naked-pig-midtown
+The Penny Farthing,Union Square,Manhattan,8,5,5,5,2026-11-06,https://yaynyc.com/bars/the-penny-farthing-union-square
+The Penrose,Upper East Side,Manhattan,,,12,,2026-11-08,https://yaynyc.com/bars/the-penrose-upper-east-side
+The Plaza At The Roxy,Tribeca,Manhattan,5,10,10,,2026-10-17,https://yaynyc.com/bars/the-plaza-at-the-roxy-tribeca
+The Pony Bar,Upper East Side,Manhattan,8,8,,8,2026-11-08,https://yaynyc.com/bars/the-pony-bar-upper-east-side
+The Purple Tongue Wine Bar,Hell's Kitchen,Manhattan,9,10,,,2026-10-24,https://yaynyc.com/bars/the-purple-tongue-wine-bar-hell-s-kitchen
+The Queensboro,Jackson Heights,Queens,5,,3,,2026-11-06,https://yaynyc.com/bars/the-queensboro-jackson-heights
+The Rabbit Hole,Astoria,Queens,5,6,,4,2026-11-12,https://yaynyc.com/bars/the-rabbit-hole-astoria
+The Ribbon,Upper West Side,Manhattan,12,,10,10,2026-11-09,https://yaynyc.com/bars/the-ribbon-upper-west-side
+The Rosemont,Williamsburg,Brooklyn,,,8,,2026-11-10,https://yaynyc.com/bars/the-rosemont-williamsburg
+The Shakespeare @ The William,Murray Hill,Manhattan,11,,,,2026-11-08,https://yaynyc.com/bars/the-shakespeare-the-william-murray-hill
+The Spaniard,Greenwich Village,Manhattan,17,,,,2026-11-09,https://yaynyc.com/bars/the-spaniard-greenwich-village
+The Stag's Head,Midtown,Manhattan,6,,,9,2026-11-12,https://yaynyc.com/bars/the-stag-s-head
+The Uptown Restaurant & Bar,Upper East Side,Manhattan,4,6,6,,2026-11-07,https://yaynyc.com/bars/the-uptown-restaurant-bar-upper-east-side
+The Warren,Greenwich Village,Manhattan,,,10,,2026-11-12,https://yaynyc.com/bars/the-warren-greenwich-village
+The Whiskey,Williamsburg,Brooklyn,19,8,,8,2026-11-09,https://yaynyc.com/bars/the-whiskey-williamsburg
+The Wolfe,Upper West Side,Manhattan,5,,,,2026-11-09,https://yaynyc.com/bars/the-wolfe-upper-west-side
+The Wolfhound,Astoria,Queens,6,6,,,2026-11-08,https://yaynyc.com/bars/the-wolfhound-astoria
+The Wren,NoHo,Manhattan,,,12,,2026-11-09,https://yaynyc.com/bars/the-wren-nolita
+Therapy Wine Bar,Bed-Stuy,Brooklyn,,8.25,8.25,,2026-11-07,https://yaynyc.com/bars/therapy-wine-bar-bed-stuy
+Tin Marin Tapas Bar,Riverdale,The Bronx,5,8,8,,2026-11-09,https://yaynyc.com/bars/tin-marin-tapas-bar
+Tiny's and the Bar Upstairs,Tribeca,Manhattan,,11,9,,2026-11-10,https://yaynyc.com/bars/tiny-s-and-the-bar-upstairs-tribeca
+Toast,Morningside Heights,Manhattan,,6,6,6,2026-11-12,https://yaynyc.com/bars/toast-harlem
+Tom & Joan's,Williamsburg,Brooklyn,,8,,8,2026-11-06,https://yaynyc.com/bars/tom-joan-s-williamsburg
+Tootles & French,Astoria,Queens,,30,,,2026-11-08,https://yaynyc.com/bars/tootles-french-astoria
+Toro Loco,Financial District,Manhattan,6,9,6,,2026-11-11,https://yaynyc.com/bars/toro-loco-financial-district
+Trattoria Dell'Arte,Times Square,Manhattan,,,14,,2026-11-04,https://yaynyc.com/bars/trattoria-dell-arte-times-square
+Tre,Lower East Side,Manhattan,,9,,,2026-10-17,https://yaynyc.com/bars/tre-lower-east-side
+Treadwell Park,Upper East Side,Manhattan,4,12,9,,2026-11-08,https://yaynyc.com/bars/treadwell-park-upper-east-side
+Trinity Place,Financial District,Manhattan,20.62,,10.31,,2026-11-08,https://yaynyc.com/bars/trinity-place-financial-district
+Troost,Greenpoint,Brooklyn,,,9,,2026-11-10,https://yaynyc.com/bars/troost-greenpoint
+Tulum Brooklyn,Bed-Stuy,Brooklyn,5,,10,5,2026-11-11,https://yaynyc.com/bars/tulum-brooklyn-bushwick
+Uncle Peter's,East Elmhurst,Queens,8,10,10,,2026-11-08,https://yaynyc.com/bars/uncle-peter-s-jackson-heights
+Upstairs Cocktail Bar,Woodside,Queens,10,,12,,2026-11-11,https://yaynyc.com/bars/upstairs-cocktail-bar-jackson-heights
+Urban Cove Society & Kitchen,Financial District,Manhattan,7,10,10,,2026-11-06,https://yaynyc.com/bars/urban-cove-society-kitchen-financial-district
+Utsav NYC,Times Square,Manhattan,5,8,10,,2026-10-24,https://yaynyc.com/bars/utsav-nyc-times-square
+Velvet Lounge,Williamsburg,Brooklyn,,10,12,13,2026-10-24,https://yaynyc.com/bars/velvet-lounge-williamsburg
+VERS,Hell's Kitchen,Manhattan,,,13,,2026-11-09,https://yaynyc.com/bars/vers-hell-s-kitchen
+Viand,Upper West Side,Manhattan,7,8,6,,2026-11-08,https://yaynyc.com/bars/viand-upper-west-side
+Vida Verde,Hell's Kitchen,Manhattan,10,,6,,2026-11-12,https://yaynyc.com/bars/vida-verde-hell-s-kitchen
+Watermark,Financial District,Manhattan,8,12,10,,2026-11-06,https://yaynyc.com/bars/watermark-financial-district
+Wayne and Sons,Williamsburg,Brooklyn,13,,,,2026-11-11,https://yaynyc.com/bars/wayne-and-sons-williamsburg
+Wayward Fare,Prospect Heights,Brooklyn,,10,,,2026-10-24,https://yaynyc.com/bars/wayward-fare-prospect-heights
+We Got Company,Williamsburg,Brooklyn,,,11,,2026-11-10,https://yaynyc.com/bars/we-got-company-williamsburg
+West Bank Cafe,Hell's Kitchen,Manhattan,8,9,,,2026-10-16,https://yaynyc.com/bars/west-bank-cafe-hell-s-kitchen
+Westville,Upper East Side,Manhattan,6,8,8,,2026-11-11,https://yaynyc.com/bars/westville-upper-east-side
+Westville,SoHo,Manhattan,5,6,8,,2026-11-10,https://yaynyc.com/bars/westville-soho
+Westville East,East Village,Manhattan,5,6,8,,2026-11-07,https://yaynyc.com/bars/westville-east-east-village
+Whisk & Whiskey,Park Slope,Brooklyn,6,8,10,8,2026-11-11,https://yaynyc.com/bars/whisk-whiskey-park-slope
+Whiskey Tavern,Chinatown,Manhattan,20,8,,8,2026-11-07,https://yaynyc.com/bars/whiskey-tavern-financial-district
+Whiskey Trader,Times Square,Manhattan,,10,12,8,2026-09-02,https://yaynyc.com/bars/whiskey-trader-times-square
+White Oak Tavern,Union Square,Manhattan,7,9,9,11,2026-11-08,https://yaynyc.com/bars/white-oak-tavern-union-square
+Winnie Said,Harlem,Manhattan,,,8,7,2026-11-10,https://yaynyc.com/bars/winnie-said-harlem
+Winnie's,Times Square,Manhattan,,7,10,10,2026-11-09,https://yaynyc.com/bars/winnie-s-times-square
+Wogies,Financial District,Manhattan,,10,12,,2026-11-09,https://yaynyc.com/bars/wogies-financial-district
+Wogies,West Village,Manhattan,,10,12,,2026-11-12,https://yaynyc.com/bars/wogies-west-village
+Woodbines,Long Island City,Queens,6,,10,6,2026-11-08,https://yaynyc.com/bars/woodbines-long-island-city
+Xochitl Taqueria,Clinton Hill,Brooklyn,,,7,,2026-11-06,https://yaynyc.com/bars/xochitl-taqueria-prospect-heights
+Xochitl Taqueria,Cobble Hill,Brooklyn,,,7,,2026-11-06,https://yaynyc.com/bars/xochitl-taqueria-cobble-hill
