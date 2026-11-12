@@ -5,3 +5,6 @@ output: github_document
 ---
 
 **Group members**: Nicole Lewis (nel239), Rezwana Habib (rfh2133), Emanuel Clemente (ejc2222), Helene Apollon (hca2124), Meher Walia (mw3952)
+
+*** Tentative Project Tite: Starred in the City: Exploring Michelin Dining in New York City *** 
+
