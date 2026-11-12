@@ -4,10 +4,4 @@ date: "2026-11-12"
 output: github_document
 ---
 
-Group members: 
-
-* Nicole Lewis (nel239)
-* Rezwana Habib (rfh2133)
-* Emanuel Clemente (ejc2222)
-* Helene Apollon (hca2124)
-* Meher Walia (mw3952)
+**Group members**: Nicole Lewis (nel239), Rezwana Habib (rfh2133), Emanuel Clemente (ejc2222), Helene Apollon (hca2124), Meher Walia (mw3952)
