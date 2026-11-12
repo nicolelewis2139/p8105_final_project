@@ -18,4 +18,4 @@ output: github_document
 | Dec 1 - 7 | Build website structure and interactive visualizations; draft written report |
 | Dec 8 - 10 | Record and edit screencast; internal review of code and report |
 | Dec 11 | Final edits, knit and push all deliverables, confirm site renders |
-| Dec 12 | Submit website link, report, and peer assessments |
+| Dec 12 | Submit the website link, report, and peer assessments |
