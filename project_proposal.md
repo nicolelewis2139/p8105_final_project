@@ -6,8 +6,34 @@ Project Proposal
 Emanuel Clemente (ejc2222), Helene Apollon (hca2124), Meher Walia
 (mw3952)
 
-**Tentative Project Title**: Starred in the City: Exploring Michelin
-Dining in New York City
+**Tentative Project Title**: Starred in the City: Exploring restaurants
+in New York City
+
+**Motivation** : New York City has an exceptionally diverse restaurant
+scene, but finding a restaurant that fits an individual’s preferences
+can still be difficult because information about price, cuisine,
+location, transportation access, ratings, Michelin recognition, and food
+or drink options is often spread across different platforms. Our project
+is motivated by the idea of bringing these factors together to better
+understand the NYC restaurant landscape and make restaurant selection
+more informative and personalized. By integrating several publicly
+available datasets, we hope to explore how restaurant characteristics
+vary across the city and identify patterns in affordability,
+accessibility, cuisine, ratings, Michelin recognition, and dietary
+restrictions. Ultimately, we aim to create an interactive NYC restaurant
+guide that allows users to explore restaurants based on the factors that
+matter most to them while also highlighting broader geographic and
+dining patterns across New York City.
+
+**Intended final products**: Webpage and screen cast We plan to create
+an NYC restaurant guide to help an individual know the best restaurant
+option for them. The webpage will include graphs of restaurant
+locations, a screen cast, and data sources.
+
+Graph details: proximity/location, Michelin Star status, cuisine type,
+dietary restrictions, price, proximity to subway stations,
+review/rating, food/drink options, and type of seating for each
+restaurant.
 
 **Anticipated Data Sources**: We plan to use publicly available datasets
 on New York City restaurants, including the NYC Happy Hour Index which
@@ -16,9 +42,39 @@ borough, and a Google Maps restaurant dataset containing information on
 restaurant names, locations, ratings, number of reviews, and price
 categories, and a Michelin Guide dataset, filtered to include 630 NYC
 locations, with information on restaurant locations, cuisine type and
-Michelin distinctions. We also plan to use an NYC subway dataset to
-assess restaurant accessibility based on proximity to subway stations,
-available subway lines, and estimated walking distances and times.
-Datasets are currently available in the project’s data folder, and we
-plan to explore additional sources and supplement existing data with our
-own research as needed.
+Michelin distinctions. We also plan to use an NYC subway entrance and
+exit dataset to assess restaurant accessibility based on proximity to
+subway stations, available subway lines, and estimated walking distances
+and times. Datasets are currently available in the project’s data
+folder, and we plan to explore additional sources and supplement
+existing data with our own research as needed.
+
+**Planned Analyses and Visualizations**: We will merge the datasets by
+standardizing restaurant names and addresses, then use spatial analysis
+to calculate each restaurant’s distance and estimated walking time to
+the nearest subway entrance. Exploratory analyses will compare price,
+ratings, cuisine, and Michelin recognition across boroughs and
+neighborhoods. Visualizations will center on an interactive `leaflet`
+map users can filter by these factors, supported by `plotly` charts of
+ratings by price category and Michelin status.
+
+## Planned Timeline
+
+Dates - Milestone \|\
+Nov 11 \| First group meeting: selected project topic, divided proposal
+sections among team members \|\
+Nov 13 \| Submit proposal; confirm data sources and finalize roles \|\
+Nov 16 - 20 \| Project review meeting with teaching team; revise scope
+based on feedback \|\
+Nov 17 - 23 \| Data acquisition and cleaning: import Michelin and NYC
+restaurant inspection data, standardize names and addresses, build the
+merged dataset \|\
+Nov 24 - 30 \| Exploratory analysis: summary statistics, initial
+visualizations, decide which comparisons make the final site \|\
+Dec 1 - 7 \| Build website structure and interactive visualizations;
+draft written report \|\
+Dec 8 - 10 \| Record and edit screencast; internal review of code and
+report \|\
+Dec 11 \| Final edits, knit and push all deliverables, confirm site
+renders \|\
+Dec 12 \| Submit the website link, report, and peer assessments \|
