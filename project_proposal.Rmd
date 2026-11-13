@@ -9,7 +9,7 @@ output: github_document
 **Tentative Project Title**: Starred in the City: Exploring Michelin Dining in New York City 
 
 **Intended final products**: Webpage and screen cast
-We want to create an NYC restaurant guide to help an individual know the best restaurant option for them.The webpage will include graphs of restaurant locations, a screen cast, data sources.
+We plan to create an NYC restaurant guide to help an individual know the best restaurant option for them.The webpage will include graphs of restaurant locations, a screen cast, and data sources.
 
 
 Graph details: proximity/location, Michelin Star status, cuisine type, dietary restrictions, price, proximity to subway stations, review/rating, food/drink options, and type of seating for each restaurant. 
