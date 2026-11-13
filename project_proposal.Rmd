@@ -8,7 +8,22 @@ output: github_document
 
 **Tentative Project Title**: Starred in the City: Exploring restaurants in New York City 
 
-**Motivation** : New York City has an exceptionally diverse restaurant scene, but finding a restaurant that fits an individual's preferences can still be difficult because information about price, cuisine, location, transportation access, ratings, Michelin recognition, and food or drink options is often spread across different platforms. Our project is motivated by the idea of bringing these factors together to better understand the NYC restaurant landscape and make restaurant selection more informative and personalized. By integrating several publicly available datasets, we hope to explore how restaurant characteristics vary across the city and identify patterns in affordability, accessibility, cuisine, ratings, Michelin recognition, and dietary restrictions. Ultimately, we aim to create an interactive NYC restaurant guide that allows users to explore restaurants based on the factors that matter most to them while also highlighting broader geographic and dining patterns across New York City.
+**Motivation** : New York City has an exceptionally diverse restaurant 
+scene, but finding a restaurant that fits an individual's preferences 
+can still be difficult because information about price, cuisine, location, 
+transportation access, ratings, Michelin recognition, and food or drink options 
+is often spread across different platforms. 
+Our project is motivated by the idea of bringing these factors 
+together to better understand the NYC restaurant landscape and 
+make restaurant selection more informative and personalized. 
+By integrating several publicly available datasets, we hope to 
+explore how restaurant characteristics vary across the city and
+identify patterns in affordability, accessibility, cuisine, 
+ratings, Michelin recognition, and dietary restrictions. Ultimately, 
+we aim to create an interactive NYC restaurant guide that 
+allows users to explore restaurants based on the factors 
+that matter most to them while also highlighting broader 
+geographic and dining patterns across New York City.
 
 **Intended final products**: Webpage and screen cast
 We plan to create an NYC restaurant guide to help an individual know the best restaurant option for them. The webpage will include graphs of restaurant locations, a screen cast, and data sources.
